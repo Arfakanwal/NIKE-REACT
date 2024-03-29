@@ -1,0 +1,106 @@
+.main{
+    background-color: rgb(198, 215, 233);
+}
+.container-fluid{
+    background-color: rgba(238, 228, 218, 0.925);
+    height: 75px;
+    
+   
+    
+}
+.highlight{
+    color: rgba(250, 139, 12);
+    font-weight: bold;
+}
+.navbar-brand img{
+    margin-left: 30px;
+}
+.navbar-nav{
+    font-weight: bolder;
+ 
+}
+.nav-link{
+    margin-right: 50px;
+    padding: 15px;
+}
+.brand-img{
+    height: 100px !important;
+    width: 50% !important;
+    margin-left: 20px;
+}
+.card{
+    margin-top: 100px;
+    margin-left: 20px;
+    border: none;
+    margin-right: 30px;
+}
+.card-title{
+  font-weight: bolder;
+  color: rgba(250, 139, 12);
+}
+h1{
+    font-weight: bolder;
+}
+.btn{
+    background-color: rgb(51, 66, 197);
+}
+.title{
+    font-weight: bold;
+}
+.price{
+    color:rgba(250, 139, 12) ;
+    font-weight: bolder;
+    font-size: larger;
+ 
+}
+.cs{
+    color: dimgray;
+    margin-left: 50px;
+   padding-top: 50px;
+   padding-bottom: 0% !important;
+}
+.fs{
+    color: dimgray;
+    margin-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 0% !important;
+}
+.feature{
+margin-top: 90px;
+}
+.info{
+    margin-left: 10px;
+    margin-right: 80px;
+  
+}
+.last-container{
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    padding: 40px;
+   padding-left: 65px;
+   padding-right: 25px;
+}
+h3{
+    font-weight: bold;
+}
+.owner{
+    color:rgba(250, 139, 12) ;
+  
+}
+.Reserved{
+    margin-top: 40px;
+   /* margin-left: 350px;*/
+   display: flex;
+   justify-content: center;
+}
+#button-addon2{
+    color: white;
+    margin-top: 5px;
+}
+.navbar{
+    position: fixed;
+   z-index: 1000;
+   right: 0;
+   left: 0;
+   
+}
